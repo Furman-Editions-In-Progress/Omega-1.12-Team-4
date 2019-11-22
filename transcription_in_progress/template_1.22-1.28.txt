@@ -1,0 +1,29 @@
+# 1.22-1.28
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.22	ἔνθʼ ἄλλοι μὲν πάντες ἐπευφήμησαν Ἀχαιοὶ
+urn:cts:greekLit:tlg0012.tlg001.allen:1.22	e)/nq# a)/lloi me\n pa/ntes e)peufh/mhsan *a)xaioi\
+urn:cts:greekLit:tlg0012.tlg001.e4:1.22		e)/nq# a)/lloi me\n pa/ntes e)peufh/mhsan *a)xaioi\
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.23	αἰδεῖσθαί θʼ ἱερῆα καὶ ἀγλαὰ δέχθαι ἄποινα ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.23	ai)dei=sqai/ q# i(erh=a kai\ a)glaa\ de/xqai a)/poina #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.23		ai)dei=sqai/ q# i(erh=a kai\ a)glaa\ de/xqai a)/poina #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.24	ἀλλʼ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.24	a)ll# ou)k *a)trei/+dh| *a)game/mnoni h(/ndane qumw=| ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.24		a)ll# ou)k *a)trei/+dh| *a)game/mnoni h(/ndane qumw=| ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.25	ἀλλὰ κακῶς ἀφίει , κρατερὸν δʼ ἐπὶ μῦθον ἔτελλε ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.25	a)lla\ kakw=s a)fi/ei , kratero\n d# e)pi\ mu=qon e)/telle #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.25		a)lla\ kakw=s a)fi/ei , kratero\n d# e)pi\ mu=qon e)/telle #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.26	μή σε γέρον κοίλῃσιν ἐγὼ παρὰ νηυσὶ κιχείω
+urn:cts:greekLit:tlg0012.tlg001.allen:1.26	mh/ se ge/ron koi/lh|sin e)gw\ para\ nhusi\ kixei/w
+urn:cts:greekLit:tlg0012.tlg001.e4:1.26		mh/ se ge/ron koi/lh|sin e)gw\ para\ nhusi\ kixei/w
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.27	ἢ νῦν δηθύνοντʼ ἢ ὕστερον αὖτις ἰόντα ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.27	h)\ nu=n dhqu/nont# h)\ u(/steron au)=tis i)o/nta ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.27		h)\ nu=n dhqu/nont# h)\ u(/steron au)=tis i)o/nta ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.28	μή νύ τοι οὐ χραίσμῃ σκῆπτρον καὶ στέμμα θεοῖο ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.28	mh/ nu/ toi ou) xrai/smh| skh=ptron kai\ ste/mma qeoi=o #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.28		mh/ nu/ toi ou) xrai/smh| skh=ptron kai\ ste/mma qeoi=o #
