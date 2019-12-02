@@ -26,4 +26,4 @@ urn:cts:greekLit:tlg0012.tlg001.e4:1.27		h)\ nu=n dhqu/nont' h)\ u(/steron au)=t
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.28	μή νύ τοι οὐ χραίσμῃ σκῆπτρον καὶ στέμμα θεοῖο ·
 urn:cts:greekLit:tlg0012.tlg001.allen:1.28	mh/ nu/ toi ou) xrai/smh| skh=ptron kai\ ste/mma qeoi=o :
-urn:cts:greekLit:tlg0012.tlg001.e4:1.28		mh/ nu/ toi ou) xrai/smh| skh=ptron kai\ ste/mma qeoi=o :
+urn:cts:greekLit:tlg0012.tlg001.e4:1.28		mh/ nu/ toi ou) xrai/smh| skh=ptron kai\ ste/mma qeoi=o : 
