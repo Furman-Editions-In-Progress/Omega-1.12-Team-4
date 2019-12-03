@@ -1,12 +1,12 @@
 # 1.22-1.28
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.22	ἔνθʼ ἄλλοι μὲν πάντες ἐπευφήμησαν Ἀχαιοὶ
-urn:cts:greekLit:tlg0012.tlg001.allen:1.22	e)/nq# a)/lloi me\n pa/ntes e)peufh/mhsan *a)xaioi\
-urn:cts:greekLit:tlg0012.tlg001.e4:1.22		e)/nq# a)/lloi me\n pa/ntes e)peufh/mhsan *a)xaioi\
+urn:cts:greekLit:tlg0012.tlg001.allen:1.22	e)/nq' a)/lloi me\n pa/ntes e)peufh/mhsan *a)xaioi\
+urn:cts:greekLit:tlg0012.tlg001.e4:1.22		e)/nq' a)/lloi me\n pa/ntes e)peufh/mhsan *a)xaioi\
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.23	αἰδεῖσθαί θʼ ἱερῆα καὶ ἀγλαὰ δέχθαι ἄποινα ·
-urn:cts:greekLit:tlg0012.tlg001.allen:1.23	ai)dei=sqai/ q# i(erh=a kai\ a)glaa\ de/xqai a)/poina :
-urn:cts:greekLit:tlg0012.tlg001.e4:1.23		ai)dei=sqai/ q# i(erh=a kai\ a)glaa\ de/xqai a)/poina :
+urn:cts:greekLit:tlg0012.tlg001.allen:1.23	ai)dei=sqai/ q' i(erh=a kai\ a)glaa\ de/xqai a)/poina :
+urn:cts:greekLit:tlg0012.tlg001.e4:1.23		ai)dei=sqai/ q' i(erh=a kai\ a)glaa\ de/xqai a)/poina :
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.24	ἀλλʼ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ ,
 urn:cts:greekLit:tlg0012.tlg001.allen:1.24	ἀλλ' ou)k *a)trei/+dh| *a)game/mnoni h(/ndane qumw=| ,
